@@ -15,6 +15,8 @@
 		68A6A2481F65EF9E00856530 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A6A2461F65EF9E00856530 /* LaunchScreen.storyboard */; };
 		68A6A2531F65EF9E00856530 /* XCodeGitIntegrationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A6A2521F65EF9E00856530 /* XCodeGitIntegrationTests.m */; };
 		68A6A25E1F65EF9E00856530 /* XCodeGitIntegrationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68A6A25D1F65EF9E00856530 /* XCodeGitIntegrationUITests.m */; };
+		68A6A26B1F65F12A00856530 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A6A2411F65EF9E00856530 /* Main.storyboard */; };
+		68A6A26C1F65F12B00856530 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68A6A2411F65EF9E00856530 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -256,6 +258,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68A6A26B1F65F12A00856530 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +266,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68A6A26C1F65F12B00856530 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
